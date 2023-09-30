@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jyotiprakash-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotiprakash-panda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyotiprakash-panda-095ba0288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotiprakash-panda" height="30" width="40" /></a>
 <a href="https://fb.com/arati.panda.509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arati.panda.509" height="30" width="40" /></a>
 <a href="https://instagram.com/its_jyoti_panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_jyoti_panda" height="30" width="40" /></a>
 </p>
