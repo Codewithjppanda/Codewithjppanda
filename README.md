@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithjppanda" alt="codewithjppanda" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **kunup770@gmail.com**
 
