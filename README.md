@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **kunup770@gmail.com**
+- 📫 How to reach me **jyotiprakashpanda59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
