@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jyotiprakashpanda59@gmail.com**
 
-  - 📫 My LeetCode profile **https://leetcode.com/u/22052464/**
+- 📫 My LeetCode profile **https://leetcode.com/u/22052464/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
