@@ -29,24 +29,84 @@
 
 ---
 
-<!-- ====== FEATURED WORK ====== -->
+<!-- ====== FEATURED PROJECTS ====== -->
 ### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Codewithjppanda/leetcode-daily-checker-bot">
+        <img src="https://opengraph.githubassets.com/1/Codewithjppanda/leetcode-daily-checker-bot" alt="leetcode-daily-checker-bot preview" />
+      </a>
+      <h4><a href="https://github.com/Codewithjppanda/leetcode-daily-checker-bot">LeetCode Daily Checker Bot</a></h4>
+      <p>GitHub Actions + notifier that checks your daily problem and keeps the streak honest.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Codewithjppanda/leetcode-daily-checker-bot?style=flat" />
+        <img src="https://img.shields.io/github/forks/Codewithjppanda/leetcode-daily-checker-bot?style=flat" />
+        <img src="https://img.shields.io/github/last-commit/Codewithjppanda/leetcode-daily-checker-bot?style=flat" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub%20Actions- CI-blue?style=flat" />
+        <img src="https://img.shields.io/badge/Python- scripts-informational?style=flat&logo=python" />
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Codewithjppanda/SRGAN_Deep_Learning">
+        <img src="https://opengraph.githubassets.com/1/Codewithjppanda/SRGAN_Deep_Learning" alt="SRGAN preview" />
+      </a>
+      <h4><a href="https://github.com/Codewithjppanda/SRGAN_Deep_Learning">SRGAN — Image Super-Resolution</a></h4>
+      <p>Super-resolution with SRGAN—turn low-res images into crisp, high-detail outputs.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Codewithjppanda/SRGAN_Deep_Learning?style=flat" />
+        <img src="https://img.shields.io/github/forks/Codewithjppanda/SRGAN_Deep_Learning?style=flat" />
+        <img src="https://img.shields.io/github/last-commit/Codewithjppanda/SRGAN_Deep_Learning?style=flat" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-brightgreen?style=flat" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-SRGAN-informational?style=flat" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Codewithjppanda/bookstore-api">
+        <img src="https://opengraph.githubassets.com/1/Codewithjppanda/bookstore-api" alt="bookstore-api preview" />
+      </a>
+      <h4><a href="https://github.com/Codewithjppanda/bookstore-api">Bookstore API</a></h4>
+      <p>Clean REST API with CRUD endpoints and a tidy data model—made for learning + speed.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Codewithjppanda/bookstore-api?style=flat" />
+        <img src="https://img.shields.io/github/forks/Codewithjppanda/bookstore-api?style=flat" />
+        <img src="https://img.shields.io/github/last-commit/Codewithjppanda/bookstore-api?style=flat" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java- Spring%20Boot-orange?style=flat&logo=spring" />
+        <img src="https://img.shields.io/badge/DB- SQL-lightgrey?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Codewithjppanda/KIIT.WASING-MACHINE">
+        <img src="https://opengraph.githubassets.com/1/Codewithjppanda/KIIT.WASING-MACHINE" alt="washing-machine preview" />
+      </a>
+      <h4><a href="https://github.com/Codewithjppanda/KIIT.WASING-MACHINE">Washing Machine Booking</a></h4>
+      <p>Smart slot booking with floor/day rules and 45-min windows—built for campus use.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Codewithjppanda/KIIT.WASING-MACHINE?style=flat" />
+        <img src="https://img.shields.io/github/forks/Codewithjppanda/KIIT.WASING-MACHINE?style=flat" />
+        <img src="https://img.shields.io/github/last-commit/Codewithjppanda/KIIT.WASING-MACHINE?style=flat" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Frontend- Next.js-black?style=flat&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Backend- Node%2FAPI-informational?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/Codewithjppanda/leetcode-daily-checker-bot">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Codewithjppanda&repo=leetcode-daily-checker-bot&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Codewithjppanda/SRGAN_Deep_Learning">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Codewithjppanda&repo=SRGAN_Deep_Learning&theme=react&hide_border=true" />
-  </a>
+  <a href="https://github.com/Codewithjppanda?tab=repositories">🔎 Explore more projects →</a>
 </p>
-<p align="center">
-  <a href="https://github.com/Codewithjppanda/bookstore-api">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Codewithjppanda&repo=bookstore-api&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Codewithjppanda/KIIT.WASING-MACHINE">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Codewithjppanda&repo=KIIT.WASING-MACHINE&theme=react&hide_border=true" />
-  </a>
-</p>
+
 
 > Tip: Pin your 4 best repos for maximum impact (Profile → Customize your pins).
 
