@@ -1,7 +1,4 @@
-<!-- Hero -->
-<p align="center">
-  <img src="assets/jp-logo.svg" width="120" alt="JP logo" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Jyotiprakash</h1>
 <h3 align="center">Full-Stack Developer from India</h3>
